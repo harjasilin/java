@@ -27,7 +27,6 @@ public class Encap {
         Human obj1 = new Human();
         obj1.setAge(10);
         obj1.setName("khewjrdbsfckj");
-        ;
 
         System.out.println(obj1.getName() + obj1.getAge());
 
